@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am passionate about Data Science and Artificial Intelligence, and have a keen interest in blockchain.
 
 - 🔭 I’m currently working on Crypto DashBoard/Screener
 - 🌱 I’m currently learning about Blockchain, Machine Learning
