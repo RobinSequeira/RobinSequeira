@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[Linkedin:](https://www.linkedin.com/in/robin-sequeira-9aa132177/)
+
 <!--
 **RobinSequeira/RobinSequeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
